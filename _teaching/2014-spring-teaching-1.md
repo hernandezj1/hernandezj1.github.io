@@ -1,20 +1,10 @@
 ---
-title: "Teaching experience 1"
+title: "CS with Python - HS"
 collection: teaching
-type: "Undergraduate course"
+type: "High school Course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "FSU"
+date: 2023-06-12
+location: "Tallahassee, USA"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+This course covered the following for the high school summer program at Florida State University:
