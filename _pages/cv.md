@@ -7,8 +7,7 @@ redirect_from:
   - /resume
 ---
  
-Education
-======
+
 
 For my undergraduate and MA degree, I went to the University of Chicago, where I graduated with a BA in History and an MA in Digital Studies of Language, Culture, and History. For my bachelors work I produced the following website: 
 
