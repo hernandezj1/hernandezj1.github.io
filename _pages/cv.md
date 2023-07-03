@@ -1,59 +1,22 @@
 ---
 layout: archive
-title: "CV"
+title: "Education"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
-
-{% include base_path %}
-
+ 
 Education
 ======
-* B.A. in History, University of Chicago, 2022
-* M.A. in Digital Studies of Language, Culture and History,University of Chicago, 2022
+
+For my undergraduate and MA degree, I went to the University of Chicago, where I graduated with a BA in History and an MA in Digital Studies of Language, Culture, and History. For my bachelors work I produced the following website: 
+
+https://hernandezj1.github.io/BAthesisfinal/
+
+Here I utilized the _Mapbox Storytelling_ platform to argue for the inclusion of the Mongol campigans of the 13thcentury as examples of operational art by military historians. to do this I visually represented through the use of maps and statistics both the Mongol invasion of eastern Europe and the Franco-Austrian War of 1809.
+
+For my master's work, I utilized  __citation networks__ to study the influence of Central Asian military knowledge on the development of operational art in Russian and American militaries of the 19th and 20th centuries.
 
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
 
