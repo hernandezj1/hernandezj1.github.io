@@ -1,20 +1,20 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Education"
+    url: /cv/
 
-  - title: "Talks"
+  - title: "Tech"
     url: /talks/    
 
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Blog Posts"
+  - title: "Assorted"
     url: /year-archive/
     
-  - title: "Education"
-    url: /cv/
-        
+  - title: "Publications"
+    url: /publications/
+      
   - title: "Athletics"
     url: /athletics/
     
