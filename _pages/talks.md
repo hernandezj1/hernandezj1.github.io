@@ -14,13 +14,13 @@ Each section follows the conventions:
   - _professional affiliations_
   - Technological competencies
 
-##### Digital Humanities 
+#### Digital Humanities 
 
 
-##### Python
+#### Python
 
 
-##### Additional Programming Knowledge
+#### Additional Programming Knowledge
 
 
-##### Quantum work
+#### Quantum work
