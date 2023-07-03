@@ -1,16 +1,14 @@
 ---
 layout: archive
-title: "Publications"
+title: "Paper & Presentations"
 permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+This page contains my papers( including their status), presentations, panels, and review duties.
 
-{% include base_path %}
+#### Papers (status)
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+#### Presentations & Panels
+
+#### Review duties
