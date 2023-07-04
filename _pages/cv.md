@@ -9,9 +9,9 @@ redirect_from:
  
 
 
-For my undergraduate and MA degree, I went to the University of Chicago, where I graduated with a BA in History and an MA in Digital Studies of Language, Culture, and History. For my bachelors work I produced the following <u><a href="https://hernandezj1.github.io/BAthesisfinal/">website</a>.</u>
+For my academic preparation, I attended the University of Chicago, where I graduated with a BA in History and an MA in Digital Studies of Language, Culture, and History. For my bachelor's work, I produced the following <u><a href="https://hernandezj1.github.io/BAthesisfinal/">website</a>.</u>
 
-Here I utilized the _Mapbox Storytelling_ platform to argue for the inclusion of the Mongol campaigns of the 13th century as examples of operational art by military historians. To do this I utilized maps and statistics for both the Mongol invasion of eastern Europe and the Franco-Austrian War of 1809 and compared them using the user-friendly platform of Mapbox.
+Here I utilized the _Mapbox Storytelling_ platform to argue for the inclusion of the Mongol campaigns of the 13th century as examples of operational art by military historians. To do this I utilized maps and statistics for both the Mongol invasion of eastern Europe and the Franco-Austrian War of 1809 and compared them using the user-friendly platform of _Mapbox_.
 
 For my master's work, I utilized  __citation networks__ to study the influence of Central Asian military knowledge on the development of operational art in Russian and American militaries of the 19th and 20th centuries.
 
