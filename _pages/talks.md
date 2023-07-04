@@ -18,8 +18,9 @@ Each section follows the conventions:
 - _DHtech interest group- ADHO_
 - _Turing Institute- DS and DH interest group_
 - TEI/XML
-- 
+
 ### Python
+
 - __IBM Machine Learning Specialist__
 - __PCEP-Python programmer__
 - Developer of Python package <a href="https://pypi.org/project/XMLCit/">XMLCit</a>
