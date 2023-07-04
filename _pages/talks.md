@@ -10,17 +10,29 @@ Please feel free to use any of the links here provided for your own benefit or a
 I have separated  the content into 4 topical areas for ease of navigation. 
 
 Each section follows the conventions: 
-  - __certifications__
-  - _professional affiliations_
-  - Technological competencies
+   __certifications__
+   _professional affiliations_
+   Technological competencies
 
-#### Digital Humanities 
+### Digital Humanities 
+- _DHtech interest group- ADHO_
+- _Turing Institute- DS and DH interest group_
+- TEI/XML
+- 
+### Python
+- __IBM Machine Learning Specialist__
+- __PCEP-Python programmer__
+- Developer of Python package <a href="https://pypi.org/project/XMLCit/">XMLCit</a>
+- Data science- Numpy, Beautiful Soup, Pandas, lxml
+- Web scraping- Scrapy, Selenium
+- Artificial Intelligence/Machine Learning- SciKit-Learn, TensorFlow
+  
+### Quantum work
+- _Quantum Humanities Network_
+- Qiskit
+  
+### Additional Programming Knowledge
+All of these have been used intermittently due to project requirements, except _Linux_ which I use every day as part of operations in High-Performance Computing
 
-
-#### Python
-
-
-#### Additional Programming Knowledge
-
-
-#### Quantum work
+| Linux  | HTML/CSS | Tableau        | QGIS     |
+| R      | SQL      | Assembly(MIPS) | XML/XSLT |
