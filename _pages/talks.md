@@ -18,6 +18,11 @@ Each section follows the conventions:
 - _DHtech interest group- ADHO_
 - _Turing Institute- DS and DH interest group_
 - TEI/XML
+- Natural Language Processing
+- OCR
+- Tableau / Palladio
+- Gephi
+- QGIS
 
 ### Python
 
@@ -37,5 +42,5 @@ Each section follows the conventions:
 ### Additional Programming Knowledge
 All of these have been used intermittently due to project requirements, except _Linux_ which I use every day as part of operations in High-Performance Computing.
 
-| Linux  | HTML/CSS | Tableau        | QGIS     |
+| Linux  | HTML/CSS | Git            | QGIS     |
 | R      | SQL      | Assembly(MIPS) | XML/XSLT |
