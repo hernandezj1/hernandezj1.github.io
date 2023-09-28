@@ -8,7 +8,7 @@ author_profile: true
 This page contains my papers( including their status), presentations, panels, and review duties.
 
 ### Publications (status)
-- Introducing a Research Program for Quantum Humanities _(Under review)_ __European Journal of Risk Regulation__
+- Introducing a Research Program for Quantum Humanities _(Accepted)_ __European Journal of Risk Regulation__
         - Co-author
 - Utilizing Selenium for Historical Data Web Scraping _(Accepted)_ __Programming Historian__
         - Author
