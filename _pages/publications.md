@@ -8,8 +8,9 @@ author_profile: true
 This page contains my papers( including their status), presentations, panels, and review duties.
 
 ### Publications (status)
-- Introducing a Research Program for Quantum Humanities _(Accepted)_ __European Journal of Risk Regulation__
-        - Co-author
+
+- Bötticher, A., Hernandez, J., Kettemann, M., Gast, V., & Araiza Bravo, R. (2023). <a href="https://www.cambridge.org/core/journals/european-journal-of-risk-regulation/article/introducing-a-research-programme-for-quantum-humanities-theoretical-implications/3D652C7092DE208BEA1E7A9109B8C090">Introducing a Research Programme for Quantum Humanities: Theoretical Implications.</a> European Journal of Risk Regulation, 14(3), 435-456. doi:10.1017/err.2023.71
+
 - Utilizing Selenium for Historical Data Web Scraping _(Accepted)_ __Programming Historian__
         - Author
   
@@ -20,6 +21,8 @@ This page contains my papers( including their status), presentations, panels, an
         - Paper: _Citation Analysis of International Law Journals, 1869-1939_
 - Paper Presenter for Conference for __Society of Military History__ (May 2021)
         - Paper: _Mongol Military Legacy in Tsarist Russia: Correcting Appropriation by the Military West_
+- Outreach and Education for HPC for __SC23__ (November 2023)
+- Humanities in HPC for __SC23__ (November 2023)
   
 ### Review duties
 - Reviewer for _Digital Humanities Quarterly_
