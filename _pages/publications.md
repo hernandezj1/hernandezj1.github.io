@@ -15,6 +15,8 @@ This page contains my papers( including their status), presentations, panels, an
         - Author
   
 ### Presentations & Panels
+- <a href="https://www.uni-jena.de/forschung/forschungsprofil/profillinien/profillinie-liberty/freiheitsraeume-und-freiheitssicherung-im-digitalen-staat/veranstaltungen/building-a-national-innovation-system-for-quantum-technology/speakers#block_body_4">Presenter</a> for the Conference at the University of Jena  __Building a National Innovation System for Quantum Technology__ (September 2023)
+          - Presentation:_Education in the Humanities on Quantum Computing: Learning from the Past_
 - Panelist for <a href="http://www.oscer.ou.edu/virtualresidency2023.php"> Virtual Residency Introductory Workshop</a> (June 2023)
           - Panel: _Facilitating for non-traditional disciplines_
 - Paper Presenter for Conference at __Max Planck Institute of Legal History and Legal Theory__ (May 2023)
