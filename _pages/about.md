@@ -10,9 +10,9 @@ redirect_from:
 
 Welcome to my website! Here you will find a collection of links covering my work, technical knowledge, and past research.
 
-### SC23 presentations
-- __Outreach and Education for HPC__ - <a href='https://hallerickson.ungerboeck.com/prod/app85.cshtml?aat=mNywWlytVBcU%2bzy%2fPdQDfISnA7mh1KCyMPNpI7dYGTo%3d&ExhibitorID=6661'>Booth 675</a> (Sunshine State) at 2pm on Tuesday Nov 14
-- __Humanities in HPC__ - <a href='https://hallerickson.ungerboeck.com/prod/app85.cshtml?aat=mNywWlytVBcU%2bzy%2fPdQDfISnA7mh1KCyMPNpI7dYGTo%3d&ExhibitorID=6661'>Booth 675</a>  (Sunshine State) at 3pm on Wednesday Nov 15
+### DH24 presentations
+- __Parallel Computing in DH__ - 12-12:20 on 08/05 for the DHTech Mini-Conference
+- __Education Working Group in DHTech__ - 2:10-2:30 on 08/05 for the DHTech Mini-Conference
 
 Whether you have landed here through my academic work ( which focuses on technology education for humanities and the social sciences), my athletics work, or just plain old Google searching, I hope the information here is of service to you.
 
